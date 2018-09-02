@@ -5,6 +5,7 @@ description:        "My personal site"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+email: "robert.arbon@gmail.com"
 
 defaults:
 - scope:
@@ -35,15 +36,11 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            bertiearbon 
+github:             RobertArbon 
 
 # personal
 location:           Bristol, UK 
-phone:              310-318-5555
-email:              info@default.com
 
 # Gems
 gems:
