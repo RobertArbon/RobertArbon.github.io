@@ -1,27 +1,21 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: about me 
+description: brief bio 
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+I was born in 1981 in London, United Kingdom. I attended St Edward’s Comprehensive in Romford, Essex and then Havering Sixth Form College, Upminster, where I studied chemistry, biology, mathematics and music and general studies, achieving two A’s and three B’s at A-Level.
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+After leaving sixth form college, I went to work for DSTL (at the time DERA) at Porton Down, Salisbury for a year gaining experience in an organic chemistry laboratory.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+I was accepted to read chemistry at Worcester College, University of Oxford in an undergraduate masters program (MChem) where I gained a first class degree, was a choral exhibitioner and won the Turbutt Prize for practical organic chemistry. In my final year I performed research with Prof. David Manolopolous in computational chemistry.
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+After that I attended Harvard University and joined a graduate program in Applied Physics but withdrew after 17 months with a masters degree.  After becoming interested in renewable energy I entered the energy consulting industry where I worked for four years before deciding I wanted to get back into science and maths and became a tutor.
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+After four years of tutoring I decided to pursue a PhD and I joined the Glowacki group where I work  on modelling enzymatic reactions.
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+

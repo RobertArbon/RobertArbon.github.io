@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Robert Arbon 
+bio:                'Robert Arbon, data scientist, tutor and PhD candidate'
+description:        "My personal site"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -13,7 +13,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: Robert Arbon
 
 # Jekyll
 permalink:          /blog/:title/
@@ -41,7 +41,7 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
+location:           Bristol, UK 
 phone:              310-318-5555
 email:              info@default.com
 
