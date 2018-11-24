@@ -8,5 +8,4 @@ sitemap:
     changefreq: weekly
 ---
 
-## Hello
-This is my blog.
+A very occaisional blog, basically when I decide I need to write something down, I'll blog it. 
