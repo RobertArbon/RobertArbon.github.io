@@ -5,7 +5,7 @@ date: '2019-01-20'
 ---
 
 
-My latest science/art crossover project is **Metastable impressions: Artistic Representations of Molecular Dynamics** (osf link coming soon).  It's with Alex Jones, [George Holloway](http://georgehollowaycomposer.com/) and [Pete Bennet](www.peteinfo.com). The project is in two main parts: 1) novel molecular rendering using [deep learning style transfer](https://arxiv.org/abs/1508.06576) and 2) a classical informed sonification. We are going to be using a large simulation of the enzyme setd8 by [John Chodera's lab](http://www.choderalab.org/), you can find the code and links to papers and data [here](https://github.com/choderalab/SETD8-materials). 
+My latest science/art crossover project is **Metastable impressions: Artistic Representations of Molecular Dynamics** (osf link coming soon).  It's with Alex Jones, [George Holloway](http://georgehollowaycomposer.com/) and [Pete Bennett](www.peteinfo.com). The project is in two main parts: 1) novel molecular rendering using [deep learning style transfer](https://arxiv.org/abs/1508.06576) and 2) a classical informed sonification. We are going to be using a large simulation of the enzyme setd8 by [John Chodera's lab](http://www.choderalab.org/), you can find the code and links to papers and data [here](https://github.com/choderalab/SETD8-materials). 
 
 In order to get going with the style transfer we want to understand how this process works on different molecular renderings. To understand this I have generated a set of 728 visualization with different rendering parameters. The idea will be to use this set (or rather a smaller subset eventually) as targets for different style transfers from different style sources.  
 
